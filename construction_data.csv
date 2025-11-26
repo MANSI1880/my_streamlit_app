@@ -1,0 +1,6 @@
+Material_Cost,Labor_Cost,Profit_Rate,Discount_or_Markup,Policy_Reason,Total_Estimate
+12000,8000,0.1,5,Standard,25000
+15000,9000,0.12,10,Urgent,29000
+18000,10000,0.15,7,Standard,32000
+20000,11000,0.18,12,Emergency,36000
+22000,12000,0.2,8,Urgent,39000
